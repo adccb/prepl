@@ -7,15 +7,7 @@ there are currently two commands, `against` and `my`. (`against` is aliased both
 ## against
 `against` will give you type information about a pokemon you're up against. like this!
 
-```
-> against growlithe
-foe growlithe fire
-
-double damage from   : ground | rock | water
-double damage to     : bug | steel | grass | ice
-half damage from     : bug | steel | fire | grass | ice | fairy
-half damage to       : rock | fire | water | dragon
-```
+<img width="940" alt="against" src="https://user-images.githubusercontent.com/13964123/141857362-6c11def9-d6c9-414c-8280-8f7f96da1459.png">
 
 ## my
 `my` gives you information about the levels at which your pokemon learns certain moves. it looks like this!
